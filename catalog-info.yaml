@@ -8,5 +8,5 @@ metadata:
     github.com/project-slug: winstony99u/pipelines-java
 spec:
   type: service
-  lifecycle: unknown
+  lifecycle: experimental
   owner: Winston Yang
