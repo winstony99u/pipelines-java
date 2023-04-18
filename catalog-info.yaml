@@ -3,8 +3,9 @@ kind: Component
 metadata:
   name: pipelines-java
   annotations:
+    harness.io/project-url: https://app.harness.io/ng/#/account/GKaZCHFqTmqWZd874phqlw/home/orgs/FSG/projects/winstonbackstagedummy/details
     github.com/project-slug: winstony99u/pipelines-java
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: Winston Yang
