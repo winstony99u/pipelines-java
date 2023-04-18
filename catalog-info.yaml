@@ -4,6 +4,7 @@ metadata:
   name: pipelines-java
   annotations:
     harness.io/project-url: https://app.harness.io/ng/#/account/GKaZCHFqTmqWZd874phqlw/home/orgs/FSG/projects/winstonbackstagedummy/details
+    harness.io/ci-pipelineIds: pipeline
     github.com/project-slug: winstony99u/pipelines-java
 spec:
   type: service
